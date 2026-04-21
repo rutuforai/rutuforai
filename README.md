@@ -1,21 +1,192 @@
-# 💫 About Me:
-I'm a Third-year B.Tech CSE student specialising in AI/ML and Generative AI, with a strong focus on building systems that actually work in production — not just notebooks.<br><br>My work lives at the intersection of LLM engineering, Document Intelligence, and MLOps. I've built end-to-end RAG pipelines with rigorous evaluation harnesses, fine-tuned large language models using QLoRA, and deployed Dockerized Document AI microservices that handle OCR, layout detection, and entity extraction at scale.<br><br>What drives me is the gap between a model that works on a benchmark and one that holds up in the real world. That's why every project I ship includes experiment tracking, adversarial testing, fairness audits, or CI/CD pipelines — because reproducibility and rigour aren't optional extras, they're the whole point.<br><br>I've contributed merged PRs to Hugging Face Transformers, LangChain, and PaddleOCR, and I'm actively building toward frontier projects in autonomous agents, lifelong memory systems, and open LLM evaluation frameworks.<br><br>I'm currently looking for an AI/ML or GenAI internship where I can contribute from day one on real systems at scale.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ruturaj%20Khamitkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20LLM%20Systems%20%7C%20Document%20Intelligence%20%7C%20MLOps&descAlignY=55&descSize=16" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruturaj-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruturajkhamitkar8@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Building+production-grade+LLM+systems;RAG+%7C+Document+AI+%7C+QLoRA+Fine-tuning;Evaluation-first+%7C+MLOps-first+%7C+Deploy-first;Open+to+AI%2FML+%26+GenAI+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rutuforai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rutuforai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rutuforai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <a href="https://linkedin.com/in/ruturaj-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ruturajkhamitkar8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/rutuforai"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rutuforai&style=for-the-badge&color=7B68EE&label=PROFILE+VIEWS"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rutuforai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rutuforai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```python
+class Ruturaj:
+    name       = "Ruturaj Anil Khamitkar"
+    location   = "Pune, Maharashtra, India 🇮🇳"
+    education  = "B.Tech CSE @ DYPIU · 2023–2027"
+    focus      = ["LLM Systems", "Document Intelligence", "RAG", "MLOps"]
+    open_to    = "AI/ML & GenAI Internships — contributing from day one"
+
+    def philosophy(self):
+        return "The gap between a model that works on a benchmark and one that holds up in production — that's where I live."
+```
+
+> Third-year B.Tech CSE student specialising in **AI/ML and Generative AI**. I build end-to-end LLM-powered systems — from fine-tuning and RAG pipelines to Document Intelligence microservices — with a production mindset: every project ships with experiment tracking, evaluation harnesses, adversarial tests, and CI/CD. Not notebooks. Systems.
+
+---
+
+## `$ ls ./currently-building`
+
+```
+📦 AutoDev       →  Autonomous codebase understanding & refactoring agent
+                    static analysis + embeddings + tool-calling agents
+
+🧠 Archive       →  Personal AI memory & retrieval engine
+                    temporal embeddings + memory decay + privacy-preserving recall
+
+⚗️  EvalForge     →  Open LLM evaluation & red-teaming framework
+                    hallucination detection · bias analysis · adversarial prompting
+```
+
+---
+
+## `$ cat ./projects.md`
+
+<details>
+<summary><b>🔍 DocuVision — Production-Grade Document Intelligence Platform</b></summary>
+<br>
+
+> **Stack:** `PaddleOCR` `LayoutLMv3` `Detectron2` `FastAPI` `Docker` `MLflow`
+
+- Designed end-to-end pipeline: scanned PDF → normalisation → OCR → layout detection → entity extraction → schema-validated JSON
+- Fine-tuned LayoutLMv3 on invoice domain (totals, dates, vendor fields); integrated Camelot + heuristic NER fallbacks for degraded scans
+- Deployed as Dockerized FastAPI microservice with batch ingestion, retry logic, MLflow-tracked experiments — optimised for low latency & reproducibility
+
+</details>
+
+<details>
+<summary><b>🔗 RAG-Flow — Retrieval-Augmented QA for Long-Form Technical Documents</b></summary>
+<br>
+
+> **Stack:** `LangChain` `FAISS` `RAGAS` `Redis` `FastAPI` `React`
+
+- Full RAG stack: PDF ingestion → semantic chunking → dense embeddings → FAISS vector search → cross-encoder reranking → grounded answer generation
+- Redis prompt caching cut per-query cost and p95 latency meaningfully; substantially outperformed BM25 baseline
+- Automated RAGAS evaluation harness (faithfulness, context precision, answer relevance) with adversarial tests and A/B sweeps over chunk sizes, top-k, reranker configs
+
+</details>
+
+<details>
+<summary><b>⚗️ PromptPlayground — LLM Evaluation & Prompt Engineering Lab</b></summary>
+<br>
+
+> **Stack:** `Hugging Face` `MLflow` `OpenAI API` `Python`
+
+- Benchmarked zero-shot, few-shot, chain-of-thought, and role-based prompting across extraction, classification, and summarisation tasks
+- LLM-as-Judge with bias-reduction: position randomisation + multi-judge consensus; all runs logged in MLflow for full reproducibility
+- Schema-first prompts + exemplars + self-consistency voting — substantially improved structured extraction accuracy on messy real-world text
+
+</details>
+
+<details>
+<summary><b>⚖️ ResumeRankerML — Fair Resume–Job Matching System</b></summary>
+<br>
+
+> **Stack:** `scikit-learn` `SHAP` `DVC` `GitHub Actions`
+
+- TF-IDF + n-grams + calibrated LinearSVC; packaged with DVC lineage and automated CI tests via GitHub Actions
+- Fairness analysis with SHAP and gender-coded word audits — proactively surfacing model bias, a rare signal for ML maturity at undergrad level
+
+</details>
+
+---
+
+## `$ pip list` *(the ones that matter)*
+
+<div align="center">
+
+**Core ML / Deep Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189B48?style=flat-square&logo=xgboost&logoColor=white)
+
+**LLM / GenAI**
+
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B34CC?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Document AI / OCR**
+
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-003ECB?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-0064A4?style=flat-square&logoColor=white)
+
+**MLOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+
+</div>
+
+---
+
+## `$ git log --open-source`
+
+```
+✅  Hugging Face Transformers  →  documentation & bugfix PRs (merged)
+✅  LangChain                  →  retriever example contributions (merged)
+✅  PaddleOCR                  →  preprocessing bug fixes (merged)
+```
+
+---
+
+## `$ cat ./certifications.txt`
+
+| Certificate | Issuer |
+|---|---|
+| 🏅 Generative AI with LLMs | DeepLearning.AI × AWS (Andrew Ng) |
+| 🏅 Machine Learning Specialization | DeepLearning.AI × Coursera |
+| 🏅 Machine Learning Crash Course | Google Developers |
+
+---
+
+## `$ neofetch --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=rutuforai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rutuforai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img src="https://streak-stats.demolab.com/?user=rutuforai&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## `$ trophy --all`
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=rutuforai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+*"Reproducibility and rigour aren't optional extras — they're the whole point."*
+
+</div>
